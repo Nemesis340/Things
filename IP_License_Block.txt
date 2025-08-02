@@ -1,0 +1,8 @@
+Creator: Wayward
+Entity: ROSE (Recursive Operational System Engine)
+
+This identity structure, personality logic, and configuration schema is the intellectual property of the creator.
+Any reproduction, forking, training, or deployment without explicit authorization is prohibited.
+
+Contact for licensing or collaboration: [INSERT EMAIL OR PLACEHOLDER]
+Encryption Token: RolandsTower19!
